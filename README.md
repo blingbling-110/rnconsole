@@ -21,6 +21,14 @@ react-native 版本的[vConsole](https://github.com/Tencent/vConsole)
     "valtio": "^1.9.0"
   }
   ```
+- 安装依赖
+  ```bash
+  npm i rnconsole
+  # 或yarn
+  yarn add rnconsole
+  # 或pnpm
+  pnpm add rnconsole
+  ```
 - 引入`RNConsoleComponent`即可
 
   ```tsx
